@@ -1,0 +1,12 @@
+# Remember for PsychToolbox (0,0) is the upper-left of the screen!
+
+# Center of Stimulus (Horizontal and Vertical, in %)
+hcenter 50
+vcenter 50
+
+# Size of Stimulus (Horiz. and Vert., in %)
+hsize 100
+vsize 100
+
+# Synch Method
+synch audio
